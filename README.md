@@ -98,7 +98,21 @@ MyOS is my personal operating system development project.
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+## 📺 YouTube Channel
 
+<p align="center">
+  <a href="https://www.youtube.com/@SiyamCodeZom-y3x">
+    <img src="https://img.shields.io/badge/Subscribe-SiyamCodeZom-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  Programming | Python | Linux | Technology | MyOS
+</p>
+
+<p align="center">
+  Check out my YouTube channel and join my coding journey! 🚀
+</p>
 ---
 
 <h3 align="center">✨ LEARN • BUILD • CREATE ✨</h3>
